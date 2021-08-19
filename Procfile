@@ -1,1 +1,1 @@
-web: bin/helloworld/server
+web: bin/server
